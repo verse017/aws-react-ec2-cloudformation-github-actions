@@ -15,14 +15,8 @@
   },
   "quotes": [
     "help a brota out.",
-    "Success doesn't come to you, you go to it.",
-    "Small progress every day leads to big results.",
-    "Don't watch the clock; do what it does. Keep going.",
-    "Your only limit is your mind.",
-    "Push yourself because no one else is going to do it for you.",
-    "Dream it. Build it. Achieve it.",
-    "Hard work beats talent when talent doesn't work hard.",
-    "Failure is not the opposite of success; it is part of success.",
-    "Code your future one line at a time."
+    "I automate things so I don't have to do them twice, then spend three hours debugging the automation.",
+    "My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
+    "the only ninja you should fear is the one that can automate your job away."
   ]
 }
